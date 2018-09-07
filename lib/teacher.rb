@@ -4,5 +4,5 @@ class Teacher < User
   def teach
     
   end  
-  expect(knowledge).to include(teacher.teach) 
+ 
 end
